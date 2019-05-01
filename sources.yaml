@@ -1,0 +1,6 @@
+repos:
+  - name: spark
+    github_repo: dbanda/charts
+    branch: master
+    charts_path:
+      - stable/spark
