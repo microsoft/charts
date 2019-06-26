@@ -1,5 +1,16 @@
+# Helm Hub
+This repo houses helm charts for the Microsoft helm hub repository https://hub.helm.sh/charts/microsoft
 
-# Contributing
+Example usage:
+```
+helm repo add microsoft https://microsoft.github.io/charts/repo
+helm install microsoft/spark --version 1.0.0
+```
+
+To contribute a chart, first create an archive of your chart using `helm package`. Then place the archive in the `repo` folder an update `repo/index.yaml` with your chart details.
+
+
+## Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
