@@ -7,7 +7,14 @@ helm repo add microsoft https://microsoft.github.io/charts/repo
 helm install microsoft/spark --version 1.0.0
 ```
 
-To contribute a chart, first create an archive of your chart using `helm package`. Then place the archive in the `repo` folder an update `repo/index.yaml` with your chart details.
+## Adding new charts
+
+1. Automatically using circle-ci
+Add your entry to your chart github repo in sources.yaml. Once merged into master, circle-ci will push your changes to the `gh-pages` branch for deployment.
+
+2. Manually adding a chart
+To contribute a chart, first create an archive of your chart using `helm package`. Then place the archive in the `repo` folder and update `repo/index.yaml`, `source.yaml` with your chart details. Create a branch with your work and merge it into the `gh-pages` branch to deploy. Turn off circle-ci and merge your work into master to prevent your work from being overwitten by autobuilds.
+
 
 
 ## Contributing
