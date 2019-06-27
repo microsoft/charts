@@ -1,12 +1,15 @@
 version: 2
 jobs:
   build:
+    branches:
+      only:
+        - master
     docker:
       - image: alpine
     steps:
       - add_ssh_keys:
           fingerprints:
-            - "d7:34:69:b7:f1:31:af:7a:28:49:d4:75:39:01:77:7c"
+            - "90:08:7b:d5:d6:75:ad:d5:97:9f:e0:29:73:f5:ad:1c"
       - checkout
       - run:
           name: gh-pages
