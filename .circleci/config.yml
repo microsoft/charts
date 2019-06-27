@@ -1,0 +1,13 @@
+version: 2
+jobs:
+  build:
+    docker:
+      - image: alpine
+    steps:
+      - add_ssh_keys:
+          fingerprints:
+            - "d7:34:69:b7:f1:31:af:7a:28:49:d4:75:39:01:77:7c"
+      - checkout
+      - run:
+          name: gh-pages
+          command: sh .circleci/publish.sh
