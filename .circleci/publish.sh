@@ -58,8 +58,9 @@ helm repo update
 
 # inspect all
 find "$REPO_PATH" -mindepth 1 -maxdepth 1 -type d | while read chart; do
-  echo ">>> helm lint $chart"
-  helm inspect microsoft/"$chart"
+  chart_name="`basename "$chart"`"
+  echo ">>> helm inspect microsoft/$chart_name"
+  helm inspect microsoft/"$chart_name"
 done
 
 # echo ">> Publishing to $GITHUB_PAGES_BRANCH branch of $GITHUB_PAGES_REPO"
