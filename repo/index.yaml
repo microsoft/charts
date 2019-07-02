@@ -1,5 +1,24 @@
 apiVersion: v1
 entries:
+  cognitive-services-speech-onpremise:
+  - apiVersion: v1
+    appVersion: 0.1.0
+    created: 2019-07-01T15:41:28.0916526-07:00
+    description: A Helm chart for Kubernetes for all on-prem speech service components
+    digest: 8b15ee07ae928e00cf596a7ade9108cf4b1bc4e93b228b04acbe0e5cd7eeb1fb
+    home: https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/speech-container-howto
+    keywords:
+    - speech-to-text
+    - text-to-speech
+    - onpremise
+    - cognitive-services
+    maintainers:
+    - email: antsu@microsoft.com
+      name: Anthony Su
+    name: cognitive-services-speech-onpremise
+    urls:
+    - cognitive-service-speech/cognitive-services-speech-onpremise-0.1.0.tgz
+    version: 0.1.0
   spark:
   - apiVersion: v1
     appVersion: 2.4.0
@@ -23,22 +42,4 @@ entries:
     urls:
     - spark/spark-1.0.0.tgz
     version: 1.0.0
-  speech-onprem:
-  - apiVersion: v1
-    appVersion: 0.1.0
-    created: 2019-06-27T16:47:49.7086141-07:00
-    description: A Helm chart for Kubernetes for all on-prem speech service components
-    digest: a6ba1a1d4218304aa2afe7ad832258860d98fe472a9ba728fa406f45971a3293
-    home: https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/speech-container-howto
-    keywords:
-    - speech-to-text
-    - text-to-speech
-    - on-prem
-    maintainers:
-    - email: antsu@microsoft.com
-      name: Anthony Su
-    name: speech-onprem
-    urls:
-    - speech-onprem/speech-onprem-0.1.0.tgz
-    version: 0.1.0
-generated: 2019-06-27T16:47:49.7015545-07:00
+generated: 2019-07-01T15:41:28.0863627-07:00
