@@ -51,12 +51,23 @@ echo '>>> helm repo index'
 helm repo index .
 ls $REPO_PATH
 
-echo ">> Publishing to $GITHUB_PAGES_BRANCH branch of $GITHUB_PAGES_REPO"
-git checkout -b $GITHUB_PAGES_BRANCH
-git config user.email "$CIRCLE_USERNAME@users.noreply.github.com"
-git config user.name CircleCI
-git add .
-git status
-git commit -m "Published by CircleCI $CIRCLE_BUILD_URL"
-git push -f origin "$GITHUB_PAGES_BRANCH"
-echo "done "
+cd $WORKING_DIRECTORY
+python3 -m http.server 8080 &
+helm repo add microsoft http://localhost:8080
+helm repo update
+
+# inspect all
+find "$REPO_PATH" -mindepth 1 -maxdepth 1 -type d | while read chart; do
+  echo ">>> helm lint $chart"
+  helm inspect microsoft/"$chart"
+done
+
+# echo ">> Publishing to $GITHUB_PAGES_BRANCH branch of $GITHUB_PAGES_REPO"
+# git checkout -b $GITHUB_PAGES_BRANCH
+# git config user.email "$CIRCLE_USERNAME@users.noreply.github.com"
+# git config user.name CircleCI
+# git add .
+# git status
+# git commit -m "Published by CircleCI $CIRCLE_BUILD_URL"
+# git push -f origin "$GITHUB_PAGES_BRANCH"
+# echo "done "
