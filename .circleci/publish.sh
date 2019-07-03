@@ -59,12 +59,18 @@ sleep 10
 helm repo add microsoft http://localhost:8080/repo
 helm repo update
 
-# inspect all
-find "$REPO_PATH" -mindepth 1 -maxdepth 1 -type d | while read chart; do
-  chart_name="`basename "$chart"`"
-  echo ">>> helm inspect microsoft/$chart_name"
-  helm inspect microsoft/"$chart_name"
+# inspect all by repo name
+helm search microsoft -l | while read chart_name chart_version app_version desc; do
+  echo ">>> helm inspect $chart_name"
+  helm inpect $chart_name
 done
+
+# inspect all by folder name
+#find "$REPO_PATH" -mindepth 1 -maxdepth 1 -type d | while read chart; do
+#  chart_name="`basename "$chart"`"
+#  echo ">>> helm inspect microsoft/$chart_name"
+#  helm inspect microsoft/"$chart_name"
+#done
 
 # echo ">> Publishing to $GITHUB_PAGES_BRANCH branch of $GITHUB_PAGES_REPO"
 # git checkout -b $GITHUB_PAGES_BRANCH
