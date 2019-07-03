@@ -52,7 +52,7 @@ helm repo index .
 ls $REPO_PATH
 
 cd $WORKING_DIRECTORY
-python3 -m http.server 8080
+python3 -m http.server 8080 &
 
 #wait for server to start running
 sleep 10
