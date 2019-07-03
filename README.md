@@ -15,7 +15,7 @@ Add your entry to your chart github repo in sources.yaml. Once merged into maste
 
 2. Manually adding a chart
 
-To contribute a chart, first create an archive of your chart using `helm package`. Then place the archive in the `repo` folder and update `repo/index.yaml`, `source.yaml` with your chart details. Create a branch with your work and merge it into the `gh-pages` branch to deploy. 
+To contribute a chart, first create an archive of your chart using `helm package`. Then place the archive in the `repo` folder and update `repo/index.yaml`, `source.yaml` with your chart details. Create a branch with your work and merge it into the `gh-pages` branch to deploy.  Check that the circle-ci tests pass.
 
 
 
