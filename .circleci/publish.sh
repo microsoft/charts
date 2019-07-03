@@ -60,10 +60,13 @@ helm repo add microsoft http://localhost:8080/repo
 helm repo update
 
 # inspect all by repo name
-helm search microsoft -l | while read chart_name chart_version app_version desc; do
-  echo ">>> helm inspect $chart_name"
-  helm inpect $chart_name
-done
+{
+  read
+  while read chart_name chart_version app_version desc; do
+    echo ">>> helm inspect $chart_name"
+    helm inspect $chart_name
+  done
+} < helm search microsoft -l
 
 # inspect all by folder name
 #find "$REPO_PATH" -mindepth 1 -maxdepth 1 -type d | while read chart; do
