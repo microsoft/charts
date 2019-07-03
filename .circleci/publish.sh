@@ -56,7 +56,7 @@ python3 -m http.server 8080 &
 
 #wait for server to start running
 sleep 10
-helm repo add microsoft http://localhost:8080
+helm repo add microsoft http://localhost:8080/repo
 helm repo update
 
 # inspect all
