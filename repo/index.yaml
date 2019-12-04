@@ -3,10 +3,10 @@ entries:
   cognitive-services-speech-onpremise:
   - apiVersion: v1
     appVersion: 0.1.1
-    created: "2019-10-21T16:04:11.9327544-07:00"
+    created: "2019-12-04T14:27:15.5267704-08:00"
     description: A Helm chart for Kubernetes for cognitive service - speech onpremise
       service
-    digest: bf5906e41bc04818c09a2c95ba1bff9774910293bfbe54d19da7be13c256d11f
+    digest: d5e7d3746e0e08556277a118bf6fe14709a847ee4053230f8ae3da0f96e0c4ca
     home: https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/speech-container-howto-on-premises
     keywords:
     - speech-to-text
@@ -43,4 +43,4 @@ entries:
     urls:
     - spark/spark-1.0.0.tgz
     version: 1.0.0
-generated: "2019-10-21T16:04:11.9228848-07:00"
+generated: "2019-12-04T14:27:15.5199163-08:00"
