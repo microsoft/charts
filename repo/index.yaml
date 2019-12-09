@@ -18,7 +18,7 @@ entries:
       name: Anthony Su
     name: cognitive-services-speech-onpremise
     urls:
-    - cognitive-service-speech/cognitive-services-speech-onpremise-0.1.1.tgz
+    - cognitive-services-speech/cognitive-services-speech-onpremise-0.1.1.tgz
     version: 0.1.1
   spark:
   - apiVersion: v1
