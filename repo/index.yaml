@@ -8,7 +8,7 @@ entries:
       servers in a factory network and register them in Azure IoT Hub.
     digest: e457a80d52ff069277a0036728cc17d110464dbbb23fc43a2f341df629c2958e
     home: https://github.com/Azure/Industrial-IoT
-    icon: https://github.com/Azure/Industrial-IoT/blob/master/docs/media/microsoft-symbol.png
+    icon: https://github.com/Azure/Industrial-IoT/blob/master/docs/media/microsoft-symbol.png?raw=true
     keywords:
     - azure
     - iot
