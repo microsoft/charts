@@ -4,3 +4,8 @@ repos:
     branch: master
     charts_path:
       - stable/spark
+  - name: azure-industrial-iot
+    github_repo: Azure/Industrial-IoT
+    branch: master
+    charts_path:
+      - deploy/helm/azure-industrial-iot

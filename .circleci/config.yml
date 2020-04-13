@@ -4,6 +4,7 @@ jobs:
     branches:
       only:
         - master
+        - gh-pages
     docker:
       - image: alpine
     steps:
@@ -12,5 +13,5 @@ jobs:
             - "90:08:7b:d5:d6:75:ad:d5:97:9f:e0:29:73:f5:ad:1c"
       - checkout
       - run:
-          name: gh-pages
-          command: sh .circleci/publish.sh
+          name: helm_tests
+          command: sh .circleci/helm_tests.sh

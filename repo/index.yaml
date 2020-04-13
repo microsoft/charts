@@ -1,5 +1,51 @@
 apiVersion: v1
 entries:
+  azure-industrial-iot:
+  - apiVersion: v2
+    appVersion: 2.6.104
+    created: "2020-03-23T12:55:18.0234345+01:00"
+    description: Azure Industrial IoT allows plant operators to discover OPC UA enabled
+      servers in a factory network and register them in Azure IoT Hub.
+    digest: 714ef5a376c323e3ef4048e3062b983fb5f64fe4b9aefbba1429f961e572ebff
+    home: https://github.com/Azure/Industrial-IoT
+    icon: https://github.com/Azure/Industrial-IoT/blob/master/docs/media/microsoft-symbol.png?raw=true
+    keywords:
+    - azure
+    - iot
+    - iiot
+    - industrial-iot
+    - azure-industrial-iot
+    - opc-ua
+    maintainers:
+    - email: kakostan@microsoft.com
+      name: Karapet Kostandyan
+    name: azure-industrial-iot
+    type: application
+    urls:
+    - azure-industrial-iot/azure-industrial-iot-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 2.5.2
+    created: "2020-03-23T12:55:18.0054354+01:00"
+    description: Azure Industrial IoT allows plant operators to discover OPC UA enabled
+      servers in a factory network and register them in Azure IoT Hub.
+    digest: 6367e02f33a284842b2bd95e1b0504380dc6f23af26e5e2d26ebab8b65cdbee5
+    home: https://github.com/Azure/Industrial-IoT
+    keywords:
+    - azure
+    - iot
+    - iiot
+    - industrial-iot
+    - azure-industrial-iot
+    - opc-ua
+    maintainers:
+    - email: kakostan@microsoft.com
+      name: Karapet Kostandyan
+    name: azure-industrial-iot
+    type: application
+    urls:
+    - azure-industrial-iot/azure-industrial-iot-0.1.0.tgz
+    version: 0.1.0
   cognitive-services-speech-onpremise:
   - apiVersion: v1
     appVersion: 0.2.0
