@@ -9,7 +9,7 @@ helm install microsoft/spark --version 1.0.0
 
 ## Adding new charts
 
-To contribute a chart, first create an archive of your chart using `helm package`. Then place the archive in the `repo` folder and update `repo/index.yaml`, `source.yaml` with your chart details. Create a branch with your work and merge it into the `gh-pages` branch to deploy. 
+To contribute a chart, first create an archive of your chart using `helm package`. Then place the archive in the `repo` folder and update `repo/index.yaml`, `sources.yaml` with your chart details. Hint: use `helm repo index` to generate your `index.yaml` for your chart in the same folder where your chart archive lives. Create a branch with your work and merge it into the `gh-pages` branch to deploy. 
 
 
 ## Contributing
