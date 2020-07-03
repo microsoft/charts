@@ -16,9 +16,11 @@ apk add ca-certificates git openssh
 git checkout master
 
 # run py script to fetch charts from repos
-apk add python3
+apk add python3 curl
 mkdir -p "charts"
 mkdir -p "/tmp/sources/"
+curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+python3 get-pip.py
 python3 -m pip install pyyaml
 python3 .circleci/fetch_charts.py
 
