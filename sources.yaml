@@ -9,3 +9,8 @@ repos:
     branch: master
     charts_path:
       - deploy/helm/azure-industrial-iot
+  - name: azuremonitor-containers
+      github_repo: Docker-Provider
+      branch: ci_prod
+      charts_path:
+        - charts/azuremonitor-containers
