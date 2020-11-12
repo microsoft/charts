@@ -132,7 +132,7 @@ entries:
       name: ganga1980
     name: azuremonitor-containers
     sources:
-    - https://github.com/microsoft/Docker-Provider/tree/ci_prod
+    - https://github.com/microsoft/Docker-Provider/tree/ci_prod/charts/azuremonitor-containers
     urls:
     - azuremonitor-containers/azuremonitor-containers-2.7.9.tgz
     version: 2.7.9
@@ -175,7 +175,7 @@ entries:
       name: ganga1980
     name: azuremonitor-containers
     sources:
-    - https://github.com/microsoft/Docker-Provider/tree/ci_prod
+    - https://github.com/microsoft/Docker-Provider/tree/ci_prod/charts/azuremonitor-containers
     urls:
     - azuremonitor-containers/azuremonitor-containers-2.7.8.tgz
     version: 2.7.8
@@ -218,7 +218,7 @@ entries:
       name: ganga1980
     name: azuremonitor-containers
     sources:
-    - https://github.com/microsoft/Docker-Provider/tree/ci_prod
+    - https://github.com/microsoft/Docker-Provider/tree/ci_prod/charts/azuremonitor-containers
     urls:
     - azuremonitor-containers/azuremonitor-containers-2.7.7.tgz
     version: 2.7.7
