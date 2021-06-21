@@ -19,6 +19,24 @@ entries:
     urls:
     - cognitive-service-speech/cognitive-services-speech-onpremise-0.1.0.tgz
     version: 0.1.0
+  - apiVersion: v2
+    appVersion: 0.3.3
+    created: 2021-06-21T11:28:09.702322600-0700
+    description: A Helm chart for Kubernetes for all on-prem speech service components
+    digest: 295966e8c119a9727192df43f264ae3ea306318395e0c39b74416b8cd021988d
+    home: https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/speech-container-howto
+    keywords:
+    - speech-to-text
+    - text-to-speech
+    - onpremise
+    - cognitive-services
+    maintainers:
+    - email: antsu@microsoft.com
+      name: Anthony Su
+    name: cognitive-services-speech-onpremise
+    urls:
+    - cognitive-service-speech/cognitive-services-speech-onpremise-0.3.3.tgz
+    version: 0.3.3
   spark:
   - apiVersion: v1
     appVersion: 2.4.0
