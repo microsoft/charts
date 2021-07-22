@@ -1,5 +1,5 @@
 # Helm Hub
-This repo houses helm charts for the Microsoft helm hub repository https://hub.helm.sh/charts/microsoft
+This repo houses helm charts for the Microsoft helm hub repository https://artifacthub.io/packages/search?repo=microsoft&sort=relevance&page=1
 
 Example usage:
 ```
