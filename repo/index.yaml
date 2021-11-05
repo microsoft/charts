@@ -2,6 +2,29 @@ apiVersion: v1
 entries:
   azure-industrial-iot:
   - apiVersion: v2
+    appVersion: 2.8.1
+    created: "2021-11-05T19:51:00.9482491+01:00"
+    description: Azure Industrial IoT allows plant operators to discover OPC UA enabled
+      servers in a factory network and register them in Azure IoT Hub.
+    digest: ec939fed989837f52b6eb5b12484bc45bb89a6a7d4bd389819bc97ad86b79bf0
+    home: https://github.com/Azure/Industrial-IoT
+    icon: https://raw.githubusercontent.com/Azure/Industrial-IoT/main/docs/media/microsoft-symbol.png
+    keywords:
+    - azure
+    - iot
+    - iiot
+    - industrial-iot
+    - azure-industrial-iot
+    - opc-ua
+    maintainers:
+    - email: kakostan@microsoft.com
+      name: Karapet Kostandyan
+    name: azure-industrial-iot
+    type: application
+    urls:
+    - azure-industrial-iot/azure-industrial-iot-0.4.1.tgz
+    version: 0.4.1
+  - apiVersion: v2
     appVersion: 2.8.0
     created: "2021-09-02T19:02:29.9758655+02:00"
     description: Azure Industrial IoT allows plant operators to discover OPC UA enabled
@@ -501,4 +524,4 @@ entries:
     urls:
     - spark/spark-1.0.4.tgz
     version: 1.0.4
-generated: "2021-09-02T19:02:29.9188696+02:00"
+generated: "2021-11-05T19:51:00.9272482+01:00"
