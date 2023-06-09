@@ -233,6 +233,49 @@ entries:
   azuremonitor-containers:
   - apiVersion: v1
     appVersion: 7.0.0-1
+    created: "2023-06-09T14:40:33.441295526-07:00"
+    description: Helm chart for deploying Azure Monitor container monitoring agent
+      in Kubernetes
+    digest: b4ad88c87c37f8f3d68a7d1da6bd4b3a0fb3477a734d5f619fdddfa52b43e112
+    home: https://docs.microsoft.com/en-us/azure/monitoring/monitoring-container-health
+    icon: https://raw.githubusercontent.com/microsoft/Docker-Provider/ci_prod/img/azuremonitor-containers.svg
+    keywords:
+    - monitoring
+    - azuremonitor
+    - azure
+    - ama
+    - containerinsights
+    - metric
+    - event
+    - logs
+    - containerhealth
+    - kubernetesmonitoring
+    - acs-engine
+    - aks-engine
+    - azurestack
+    - openshift v4
+    - azure redhat openshift v4
+    - on-prem kubernetes monitoring
+    - containerlogs
+    - containerhealth
+    - containermonitoring
+    - hybrid kubernetes monitoring
+    - kubernetes
+    - kuberneteshealth
+    kubeVersion: ^1.10.0-0
+    maintainers:
+    - email: visnara@microsoft.com
+      name: vishiy
+    - email: gangams@microsoft.com
+      name: ganga1980
+    name: azuremonitor-containers
+    sources:
+    - https://github.com/microsoft/Docker-Provider/tree/ci_prod
+    urls:
+    - azuremonitor-containers/azuremonitor-containers-3.1.8.tgz
+    version: 3.1.8
+  - apiVersion: v1
+    appVersion: 7.0.0-1
     created: "2023-04-03T13:25:14.37352722-07:00"
     description: Helm chart for deploying Azure Monitor container monitoring agent
       in Kubernetes
