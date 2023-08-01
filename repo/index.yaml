@@ -231,7 +231,7 @@ entries:
     - azure-industrial-iot/azure-industrial-iot-0.1.0.tgz
     version: 0.1.0
   azuremonitor-containers:
-    - apiVersion: v1
+  - apiVersion: v1
     appVersion: 7.0.0-1
     created: "2023-07-31T15:06:14.861367888-07:00"
     description: Helm chart for deploying Azure Monitor container monitoring agent
