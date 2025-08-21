@@ -3,7 +3,7 @@ entries:
   azure-industrial-iot:
   - apiVersion: v2
     appVersion: 2.8.4
-    c    created: "2022-12-19T15:33:15.3777522+01:00"
+    created: "2022-12-19T15:33:15.3777522+01:00"
     description: Azure Industrial IoT allows plant operators to discover OPC UA enabled
       servers in a factory network and register them in Azure IoT Hub.
     digest: e8a2cab6e3b9f9bb2a415a25bea33fdf078c29d1ca3cec09589a4cb0f7a10555
