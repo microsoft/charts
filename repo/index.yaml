@@ -1926,4 +1926,23 @@ entries:
     urls:
     - spark/spark-1.0.4.tgz
     version: 1.0.4
+  mdatp-linux:
+  - apiVersion: v2
+    created: "2026-04-13T05:20:00Z"
+    description: Microsoft Defender for Endpoint on Linux — Kubernetes DaemonSet
+    digest: 985f687aea9e405ff813c1a00a4f2dd114356992999095de49418dcb4847fb74
+    home: https://learn.microsoft.com/en-us/defender-endpoint/microsoft-defender-endpoint-linux
+    icon: https://microsoft.github.io/charts/repo/mdatp-linux/icon.png
+    keywords:
+    - security
+    - endpoint-protection
+    - antivirus
+    - microsoft-defender
+    maintainers:
+    - name: MDE Linux Team
+    name: mdatp-linux
+    type: application
+    urls:
+    - mdatp-linux/mdatp-linux-0.1.0.tgz
+    version: 0.1.0
 generated: "2022-06-15T16:36:41.6261399+02:00"

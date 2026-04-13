@@ -14,3 +14,8 @@ repos:
       branch: ci_prod
       charts_path:
         - charts/azuremonitor-containers
+  - name: mdatp-linux
+    github_repo: microsoft/WD.Client.Linux
+    branch: main
+    charts_path:
+      - deploy/helm/mdatp-linux
