@@ -1928,10 +1928,9 @@ entries:
     version: 1.0.4
   mdatp-linux:
   - apiVersion: v2
-    appVersion: "101.26021.0001"
     created: "2026-04-13T05:20:00Z"
     description: Microsoft Defender for Endpoint on Linux — Kubernetes DaemonSet
-    digest: 93496adcae0a2e97fe3e65805690b780392fa4a2006757c9b9b2405e7885ffde
+    digest: 985f687aea9e405ff813c1a00a4f2dd114356992999095de49418dcb4847fb74
     home: https://learn.microsoft.com/en-us/defender-endpoint/microsoft-defender-endpoint-linux
     icon: https://microsoft.github.io/charts/repo/mdatp-linux/icon.png
     keywords:
