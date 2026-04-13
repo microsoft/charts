@@ -3,7 +3,7 @@ entries:
   azure-industrial-iot:
   - apiVersion: v2
     appVersion: 2.8.4
-    created: "2026-04-13T05:21:06.448526237Z"
+    created: "2026-04-13T05:27:08.654090471Z"
     description: Azure Industrial IoT allows plant operators to discover OPC UA enabled
       servers in a factory network and register them in Azure IoT Hub.
     digest: e8a2cab6e3b9f9bb2a415a25bea33fdf078c29d1ca3cec09589a4cb0f7a10555
@@ -26,7 +26,7 @@ entries:
     version: 0.4.4
   - apiVersion: v2
     appVersion: 2.8.3
-    created: "2026-04-13T05:21:06.446121743Z"
+    created: "2026-04-13T05:27:08.65239484Z"
     description: Azure Industrial IoT allows plant operators to discover OPC UA enabled
       servers in a factory network and register them in Azure IoT Hub.
     digest: 17e71996c8ac43b6c51d5a65b8569e9511896d4de9097e835fa7ffb2487ac6ed
@@ -49,7 +49,7 @@ entries:
     version: 0.4.3
   - apiVersion: v2
     appVersion: 2.8.2
-    created: "2026-04-13T05:21:06.444491175Z"
+    created: "2026-04-13T05:27:08.650621062Z"
     description: Azure Industrial IoT allows plant operators to discover OPC UA enabled
       servers in a factory network and register them in Azure IoT Hub.
     digest: ccfeb419fd624c4793d7f5be63820be2278d21458708e49323600a1fa889f3d2
@@ -72,7 +72,7 @@ entries:
     version: 0.4.2
   - apiVersion: v2
     appVersion: 2.8.1
-    created: "2026-04-13T05:21:06.442916521Z"
+    created: "2026-04-13T05:27:08.648745895Z"
     description: Azure Industrial IoT allows plant operators to discover OPC UA enabled
       servers in a factory network and register them in Azure IoT Hub.
     digest: ec939fed989837f52b6eb5b12484bc45bb89a6a7d4bd389819bc97ad86b79bf0
@@ -95,7 +95,7 @@ entries:
     version: 0.4.1
   - apiVersion: v2
     appVersion: 2.8.0
-    created: "2026-04-13T05:21:06.441289408Z"
+    created: "2026-04-13T05:27:08.646299575Z"
     description: Azure Industrial IoT allows plant operators to discover OPC UA enabled
       servers in a factory network and register them in Azure IoT Hub.
     digest: c35d35a69c40743967dbde9ee5b6eff46a657d8cbed938b8837c776d92fcbd4b
@@ -118,7 +118,7 @@ entries:
     version: 0.4.0
   - apiVersion: v2
     appVersion: 2.7.206
-    created: "2026-04-13T05:21:06.438856713Z"
+    created: "2026-04-13T05:27:08.644579959Z"
     description: Azure Industrial IoT allows plant operators to discover OPC UA enabled
       servers in a factory network and register them in Azure IoT Hub.
     digest: 57945361bf835f7e3a9f937307c02826cdf37da21ca580095095f68d784ca8fd
@@ -141,7 +141,7 @@ entries:
     version: 0.3.2
   - apiVersion: v2
     appVersion: 2.7.170
-    created: "2026-04-13T05:21:06.43690843Z"
+    created: "2026-04-13T05:27:08.642597852Z"
     description: Azure Industrial IoT allows plant operators to discover OPC UA enabled
       servers in a factory network and register them in Azure IoT Hub.
     digest: cd309b00b3d16c093f706bf6f94eb0594bbbf3218a42954b408de23240bb75b9
@@ -164,7 +164,7 @@ entries:
     version: 0.3.1
   - apiVersion: v2
     appVersion: 2.7.105
-    created: "2026-04-13T05:21:06.434856303Z"
+    created: "2026-04-13T05:27:08.639753511Z"
     description: Azure Industrial IoT allows plant operators to discover OPC UA enabled
       servers in a factory network and register them in Azure IoT Hub.
     digest: c857ae1df27aeaad6e332ec643996b6600a3ef5ac8ff21c77e2ace96453ea03e
@@ -187,7 +187,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 2.6.104
-    created: "2026-04-13T05:21:06.432735247Z"
+    created: "2026-04-13T05:27:08.637824913Z"
     description: Azure Industrial IoT allows plant operators to discover OPC UA enabled
       servers in a factory network and register them in Azure IoT Hub.
     digest: 714ef5a376c323e3ef4048e3062b983fb5f64fe4b9aefbba1429f961e572ebff
@@ -210,7 +210,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 2.5.2
-    created: "2026-04-13T05:21:06.429734512Z"
+    created: "2026-04-13T05:27:08.635514382Z"
     description: Azure Industrial IoT allows plant operators to discover OPC UA enabled
       servers in a factory network and register them in Azure IoT Hub.
     digest: 6367e02f33a284842b2bd95e1b0504380dc6f23af26e5e2d26ebab8b65cdbee5
@@ -233,7 +233,7 @@ entries:
   azuremonitor-containers:
   - apiVersion: v1
     appVersion: 7.0.0-1
-    created: "2026-04-13T05:21:06.481515142Z"
+    created: "2026-04-13T05:27:08.686863485Z"
     description: Helm chart for deploying Azure Monitor container monitoring agent
       in Kubernetes
     digest: 187901f948e00862f350928ae8167b6e71ca0b87b825685aa81d47efb3227677
@@ -276,7 +276,7 @@ entries:
     version: 3.1.28
   - apiVersion: v1
     appVersion: 7.0.0-1
-    created: "2026-04-13T05:21:06.480601774Z"
+    created: "2026-04-13T05:27:08.685890205Z"
     description: Helm chart for deploying Azure Monitor container monitoring agent
       in Kubernetes
     digest: d28afb51b7b76f97fd9386c5db64d9d5923401e4b81d43d9877c10f91a0d06c0
@@ -319,7 +319,7 @@ entries:
     version: 3.1.27
   - apiVersion: v1
     appVersion: 7.0.0-1
-    created: "2026-04-13T05:21:06.479687705Z"
+    created: "2026-04-13T05:27:08.684940288Z"
     description: Helm chart for deploying Azure Monitor container monitoring agent
       in Kubernetes
     digest: 581c4c8da47f040820a2b90da806f2ca86dec0c55b3978e4d14bd9cb26fee9b1
@@ -362,7 +362,7 @@ entries:
     version: 3.1.26
   - apiVersion: v1
     appVersion: 7.0.0-1
-    created: "2026-04-13T05:21:06.478738551Z"
+    created: "2026-04-13T05:27:08.683980624Z"
     description: Helm chart for deploying Azure Monitor container monitoring agent
       in Kubernetes
     digest: ede2fe26937bea60f1408e06d440085301219c9eca4b972cdfd2f14f61021e9b
@@ -405,7 +405,7 @@ entries:
     version: 3.1.25
   - apiVersion: v1
     appVersion: 7.0.0-1
-    created: "2026-04-13T05:21:06.477808762Z"
+    created: "2026-04-13T05:27:08.682958342Z"
     description: Helm chart for deploying Azure Monitor container monitoring agent
       in Kubernetes
     digest: 82b822071861fec90837558cdcc80dd3998a030eef87dafa116cea0435973cc9
@@ -448,7 +448,7 @@ entries:
     version: 3.1.24
   - apiVersion: v1
     appVersion: 7.0.0-1
-    created: "2026-04-13T05:21:06.476881178Z"
+    created: "2026-04-13T05:27:08.68153535Z"
     description: Helm chart for deploying Azure Monitor container monitoring agent
       in Kubernetes
     digest: 138fb12c552b97800b9580e3af388e7e66950691afaafc2aa6ebe28d46200e53
@@ -491,7 +491,7 @@ entries:
     version: 3.1.23
   - apiVersion: v1
     appVersion: 7.0.0-1
-    created: "2026-04-13T05:21:06.475937674Z"
+    created: "2026-04-13T05:27:08.680648552Z"
     description: Helm chart for deploying Azure Monitor container monitoring agent
       in Kubernetes
     digest: fdb8fc0f9eab2e131ed99a3dccae88855c543b04da6c92d44813d9e00a564595
@@ -534,7 +534,7 @@ entries:
     version: 3.1.22
   - apiVersion: v1
     appVersion: 7.0.0-1
-    created: "2026-04-13T05:21:06.474949686Z"
+    created: "2026-04-13T05:27:08.67979248Z"
     description: Helm chart for deploying Azure Monitor container monitoring agent
       in Kubernetes
     digest: 160de84b4675cd66c3ef2a9457e06498a2fd2b10c5984c15cf7af4465a60df8a
@@ -577,7 +577,7 @@ entries:
     version: 3.1.21
   - apiVersion: v1
     appVersion: 7.0.0-1
-    created: "2026-04-13T05:21:06.473787213Z"
+    created: "2026-04-13T05:27:08.678896024Z"
     description: Helm chart for deploying Azure Monitor container monitoring agent
       in Kubernetes
     digest: 3b4235b81c721aecf0792035930cebb1516859e69fd305c6af20ce8fbc9e4916
@@ -620,7 +620,7 @@ entries:
     version: 3.1.20
   - apiVersion: v1
     appVersion: 7.0.0-1
-    created: "2026-04-13T05:21:06.471990794Z"
+    created: "2026-04-13T05:27:08.677833016Z"
     description: Helm chart for deploying Azure Monitor container monitoring agent
       in Kubernetes
     digest: 89f4d266f920151228b87beb1dfd4313820d691d429c5b717daf0d1852b9da4a
@@ -663,7 +663,7 @@ entries:
     version: 3.1.19
   - apiVersion: v1
     appVersion: 7.0.0-1
-    created: "2026-04-13T05:21:06.470922527Z"
+    created: "2026-04-13T05:27:08.676811375Z"
     description: Helm chart for deploying Azure Monitor container monitoring agent
       in Kubernetes
     digest: 85db6a756d9cd4909e60d1baa4883ce6c6123d51bbb1789adfae95ab43d2f1b7
@@ -706,7 +706,7 @@ entries:
     version: 3.1.18
   - apiVersion: v1
     appVersion: 7.0.0-1
-    created: "2026-04-13T05:21:06.470030219Z"
+    created: "2026-04-13T05:27:08.675937701Z"
     description: Helm chart for deploying Azure Monitor container monitoring agent
       in Kubernetes
     digest: 304fa60d9b8ea3daefc45030db5e5a239946d42bdeac40386ee05be276e52a2d
@@ -749,7 +749,7 @@ entries:
     version: 3.1.17
   - apiVersion: v1
     appVersion: 7.0.0-1
-    created: "2026-04-13T05:21:06.469168508Z"
+    created: "2026-04-13T05:27:08.675041896Z"
     description: Helm chart for deploying Azure Monitor container monitoring agent
       in Kubernetes
     digest: 761ce028c30d911b1f85c52ec22e6e8349711504a54b0cdb3df9090c9bcfb024
@@ -792,7 +792,7 @@ entries:
     version: 3.1.16
   - apiVersion: v1
     appVersion: 7.0.0-1
-    created: "2026-04-13T05:21:06.468310343Z"
+    created: "2026-04-13T05:27:08.674125552Z"
     description: Helm chart for deploying Azure Monitor container monitoring agent
       in Kubernetes
     digest: 53f965ac41bcaf30760dbe26e0dd019caad120a14e8a098ae7b03f858132e252
@@ -835,7 +835,7 @@ entries:
     version: 3.1.15
   - apiVersion: v1
     appVersion: 7.0.0-1
-    created: "2026-04-13T05:21:06.467409509Z"
+    created: "2026-04-13T05:27:08.672593415Z"
     description: Helm chart for deploying Azure Monitor container monitoring agent
       in Kubernetes
     digest: 11c4da5c560240e2ad44912edf3436e28b37a3ec99af0ec853f22c047eedf69a
@@ -878,7 +878,7 @@ entries:
     version: 3.1.14
   - apiVersion: v1
     appVersion: 7.0.0-1
-    created: "2026-04-13T05:21:06.466509777Z"
+    created: "2026-04-13T05:27:08.671750298Z"
     description: Helm chart for deploying Azure Monitor container monitoring agent
       in Kubernetes
     digest: 491c190002e3914dea2d8fcba2f8847291d3d8d090cac00ae358043a9f7c2972
@@ -921,7 +921,7 @@ entries:
     version: 3.1.13
   - apiVersion: v1
     appVersion: 7.0.0-1
-    created: "2026-04-13T05:21:06.465601578Z"
+    created: "2026-04-13T05:27:08.67089599Z"
     description: Helm chart for deploying Azure Monitor container monitoring agent
       in Kubernetes
     digest: 43c202ab7115825218b44217f7244fcdc270fca2c85c1e9e7b10763bdb82b44f
@@ -964,7 +964,7 @@ entries:
     version: 3.1.12
   - apiVersion: v1
     appVersion: 7.0.0-1
-    created: "2026-04-13T05:21:06.464680206Z"
+    created: "2026-04-13T05:27:08.670016666Z"
     description: Helm chart for deploying Azure Monitor container monitoring agent
       in Kubernetes
     digest: 561d9e244b2065a20691dfc2df7e63efcc90b51f4440d6754f8f229e462c368e
@@ -1007,7 +1007,7 @@ entries:
     version: 3.1.11
   - apiVersion: v1
     appVersion: 7.0.0-1
-    created: "2026-04-13T05:21:06.463384929Z"
+    created: "2026-04-13T05:27:08.669178619Z"
     description: Helm chart for deploying Azure Monitor container monitoring agent
       in Kubernetes
     digest: f3d1e7238e9b1c142d78bf0b39454f101059846f00014e2982079174666bc2f2
@@ -1050,7 +1050,7 @@ entries:
     version: 3.1.10
   - apiVersion: v1
     appVersion: 7.0.0-1
-    created: "2026-04-13T05:21:06.485172738Z"
+    created: "2026-04-13T05:27:08.689703667Z"
     description: Helm chart for deploying Azure Monitor container monitoring agent
       in Kubernetes
     digest: 5ddf0277f194034a3e0e2d4802d7cd1d5093ae47d26b728b205705dcb72d5155
@@ -1093,7 +1093,7 @@ entries:
     version: 3.1.9
   - apiVersion: v1
     appVersion: 7.0.0-1
-    created: "2026-04-13T05:21:06.484283926Z"
+    created: "2026-04-13T05:27:08.688773387Z"
     description: Helm chart for deploying Azure Monitor container monitoring agent
       in Kubernetes
     digest: b4ad88c87c37f8f3d68a7d1da6bd4b3a0fb3477a734d5f619fdddfa52b43e112
@@ -1136,7 +1136,7 @@ entries:
     version: 3.1.8
   - apiVersion: v1
     appVersion: 7.0.0-1
-    created: "2026-04-13T05:21:06.483142522Z"
+    created: "2026-04-13T05:27:08.68772726Z"
     description: Helm chart for deploying Azure Monitor container monitoring agent
       in Kubernetes
     digest: 63e1740fa1c060a8c45b92c0d7029c4748896b3e10394142654429c4fd106942
@@ -1179,7 +1179,7 @@ entries:
     version: 3.1.5
   - apiVersion: v1
     appVersion: 7.0.0-1
-    created: "2026-04-13T05:21:06.46238008Z"
+    created: "2026-04-13T05:27:08.668289255Z"
     description: Helm chart for deploying Azure Monitor container monitoring agent
       in Kubernetes
     digest: f7bb1f66adc7f6e95540fbfa751c86aad5d7fe53a27cfbb65cd3a49250e0514d
@@ -1222,7 +1222,7 @@ entries:
     version: 3.1.1
   - apiVersion: v1
     appVersion: 7.0.0-1
-    created: "2026-04-13T05:21:06.461431466Z"
+    created: "2026-04-13T05:27:08.667336794Z"
     description: Helm chart for deploying Azure Monitor container monitoring agent
       in Kubernetes
     digest: f6375c33120bb65645c1003cce2e479699192ce1ee2706393e68df6d2e18880a
@@ -1265,7 +1265,7 @@ entries:
     version: 3.1.0
   - apiVersion: v1
     appVersion: 7.0.0-1
-    created: "2026-04-13T05:21:06.460289932Z"
+    created: "2026-04-13T05:27:08.666220736Z"
     description: Helm chart for deploying Azure Monitor container monitoring agent
       in Kubernetes
     digest: 277cc4cb6be434852a7c7b37e57c9632629a6dae07f2b69100d1006e27b02b63
@@ -1308,7 +1308,7 @@ entries:
     version: 3.0.0
   - apiVersion: v1
     appVersion: 7.0.0-1
-    created: "2026-04-13T05:21:06.459400559Z"
+    created: "2026-04-13T05:27:08.665292671Z"
     description: Helm chart for deploying Azure Monitor container monitoring agent
       in Kubernetes
     digest: d64f910ac7f1e8d5fd1ba7c59d9434b2f275fb4e2bae747870af3e8b230277ae
@@ -1351,7 +1351,7 @@ entries:
     version: 2.9.6
   - apiVersion: v1
     appVersion: 7.0.0-1
-    created: "2026-04-13T05:21:06.4585453Z"
+    created: "2026-04-13T05:27:08.663900187Z"
     description: Helm chart for deploying Azure Monitor container monitoring agent
       in Kubernetes
     digest: 57ce45c75e3935e5138a1458a57b2f33a08b3badeb6a2fba1d16430cbc651a6a
@@ -1394,7 +1394,7 @@ entries:
     version: 2.9.5
   - apiVersion: v1
     appVersion: 7.0.0-1
-    created: "2026-04-13T05:21:06.457692465Z"
+    created: "2026-04-13T05:27:08.663065516Z"
     description: Helm chart for deploying Azure Monitor container monitoring agent
       in Kubernetes
     digest: f67a1f3799aed0258021046a4222d8590ecfd2a7e6c8faa14541b92bdaad8da8
@@ -1437,7 +1437,7 @@ entries:
     version: 2.9.4
   - apiVersion: v1
     appVersion: 7.0.0-1
-    created: "2026-04-13T05:21:06.456800247Z"
+    created: "2026-04-13T05:27:08.66222853Z"
     description: Helm chart for deploying Azure Monitor container monitoring agent
       in Kubernetes
     digest: f80d4ebc4238209df81d94c2d2a6e185fd08d048feb785b19f4d5f5e77be20d1
@@ -1480,7 +1480,7 @@ entries:
     version: 2.9.3
   - apiVersion: v1
     appVersion: 7.0.0-1
-    created: "2026-04-13T05:21:06.455346359Z"
+    created: "2026-04-13T05:27:08.661387077Z"
     description: Helm chart for deploying Azure Monitor container monitoring agent
       in Kubernetes
     digest: 9830f3db6fa65fbbdaddcbc09e9c69ed7eff3573a5279f20970af6ad152a5409
@@ -1523,7 +1523,7 @@ entries:
     version: 2.9.2
   - apiVersion: v1
     appVersion: 7.0.0-1
-    created: "2026-04-13T05:21:06.454358702Z"
+    created: "2026-04-13T05:27:08.660546435Z"
     description: Helm chart for deploying Azure Monitor container monitoring agent
       in Kubernetes
     digest: d5e6751581a06b1bc675c2a49d618d4b25e6fd21259767cdcdb8b6290d6ed6f2
@@ -1566,7 +1566,7 @@ entries:
     version: 2.9.1
   - apiVersion: v1
     appVersion: 7.0.0-1
-    created: "2026-04-13T05:21:06.453504765Z"
+    created: "2026-04-13T05:27:08.659689482Z"
     description: Helm chart for deploying Azure Monitor container monitoring agent
       in Kubernetes
     digest: 355bb6641076b2468203ef0c2353acfbd4ad9853a9297bb9d5b0b40a7df491b1
@@ -1609,7 +1609,7 @@ entries:
     version: 2.9.0
   - apiVersion: v1
     appVersion: 7.0.0-1
-    created: "2026-04-13T05:21:06.452605113Z"
+    created: "2026-04-13T05:27:08.65883282Z"
     description: Helm chart for deploying Azure Monitor container monitoring agent
       in Kubernetes
     digest: ee60df77a0a1682a2b8f7c9804b4890824acb38845449d2bb19b805e383df120
@@ -1652,7 +1652,7 @@ entries:
     version: 2.8.1
   - apiVersion: v1
     appVersion: 7.0.0-1
-    created: "2026-04-13T05:21:06.451721141Z"
+    created: "2026-04-13T05:27:08.657930041Z"
     description: Helm chart for deploying Azure Monitor container monitoring agent
       in Kubernetes
     digest: 2e3c71e715a1a871d5b8b188071dca49e73d74cf021f6e44a3e5f1d0436ab410
@@ -1695,7 +1695,7 @@ entries:
     version: 2.8.0
   - apiVersion: v1
     appVersion: 7.0.0-1
-    created: "2026-04-13T05:21:06.45086006Z"
+    created: "2026-04-13T05:27:08.657042582Z"
     description: Helm chart for deploying Azure Monitor container monitoring agent
       in Kubernetes
     digest: a434da476574ac82ecc71c1f702981de119f9edaee53957fe277b7637d392b71
@@ -1738,7 +1738,7 @@ entries:
     version: 2.7.9
   - apiVersion: v1
     appVersion: 7.0.0-1
-    created: "2026-04-13T05:21:06.450093768Z"
+    created: "2026-04-13T05:27:08.655586248Z"
     description: Helm chart for deploying Azure Monitor container monitoring agent
       in Kubernetes
     digest: 658b19b56b4c5e0107992501b8c71ca4707642adb8c74a54676eefed97cfc9bf
@@ -1781,7 +1781,7 @@ entries:
     version: 2.7.8
   - apiVersion: v1
     appVersion: 7.0.0-1
-    created: "2026-04-13T05:21:06.449329038Z"
+    created: "2026-04-13T05:27:08.65485454Z"
     description: Helm chart for deploying Azure Monitor container monitoring agent
       in Kubernetes
     digest: 4c2013b5c315a1770c7059a28a103267de0cd1c4bc37cf6af17a3549aa16b0dc
@@ -1824,7 +1824,7 @@ entries:
     version: 2.7.7
   cognitive-services-speech-onpremise:
   - apiVersion: v2
-    created: "2026-04-13T05:21:06.487594877Z"
+    created: "2026-04-13T05:27:08.693141168Z"
     dependencies:
     - name: speechToText
       repository: file://./charts/speechToText
@@ -1846,7 +1846,7 @@ entries:
     version: 0.3.3
   - apiVersion: v1
     appVersion: 0.2.0
-    created: "2026-04-13T05:21:06.486808106Z"
+    created: "2026-04-13T05:27:08.692267845Z"
     description: A Helm chart for Kubernetes for cognitive service - speech onpremise
       service
     digest: ab9029a888a8a027bd8a3c12b05967f94193f312be6fbc948dc5823d99abf46d
@@ -1865,7 +1865,7 @@ entries:
     version: 0.2.0
   - apiVersion: v1
     appVersion: 0.1.1
-    created: "2026-04-13T05:21:06.485894257Z"
+    created: "2026-04-13T05:27:08.690472324Z"
     description: A Helm chart for Kubernetes for cognitive service - speech onpremise
       service
     digest: d5e7d3746e0e08556277a118bf6fe14709a847ee4053230f8ae3da0f96e0c4ca
@@ -1885,10 +1885,11 @@ entries:
   mdatp-linux:
   - apiVersion: v2
     appVersion: 101.26021.0001
-    created: "2026-04-13T05:21:06.488071317Z"
+    created: "2026-04-13T05:27:08.693583876Z"
     description: Microsoft Defender for Endpoint on Linux — Kubernetes DaemonSet
-    digest: fc5e8b04fb399eef49fff47dd478b04ec0f0abda1786c76a24fff8f934e3d81a
+    digest: 93496adcae0a2e97fe3e65805690b780392fa4a2006757c9b9b2405e7885ffde
     home: https://learn.microsoft.com/en-us/defender-endpoint/microsoft-defender-endpoint-linux
+    icon: https://microsoft.github.io/charts/repo/mdatp-linux/icon.png
     keywords:
     - security
     - endpoint-protection
@@ -1904,7 +1905,7 @@ entries:
   spark:
   - apiVersion: v1
     appVersion: 2.4.4
-    created: "2026-04-13T05:21:06.489207201Z"
+    created: "2026-04-13T05:27:08.694717246Z"
     description: Fast and general-purpose cluster computing system.
     digest: 3fff51f31570a56983dc1bdc489f5436961ebcccf1dfe5a072895a158d7fe0ad
     home: http://spark.apache.org
@@ -1928,7 +1929,7 @@ entries:
     version: 1.0.4
   - apiVersion: v1
     appVersion: 2.4.0
-    created: "2026-04-13T05:21:06.488639199Z"
+    created: "2026-04-13T05:27:08.694162308Z"
     description: Fast and general-purpose cluster computing system.
     digest: a230a7235070024635964cbf2972609cfb57cd9b8652fb126e18e35ab43d3091
     home: http://spark.apache.org
@@ -1948,4 +1949,4 @@ entries:
     urls:
     - spark/spark-1.0.0.tgz
     version: 1.0.0
-generated: "2026-04-13T05:21:06.428344974Z"
+generated: "2026-04-13T05:27:08.633359572Z"
